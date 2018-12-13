@@ -1,0 +1,14 @@
+E:\BTL\ste\Steganography\bin\Debug\Steganography.exe.config
+E:\BTL\ste\Steganography\bin\Debug\Steganography.exe.manifest
+E:\BTL\ste\Steganography\bin\Debug\Steganography.application
+E:\BTL\ste\Steganography\bin\Debug\Steganography.exe
+E:\BTL\ste\Steganography\bin\Debug\Steganography.pdb
+E:\BTL\ste\Steganography\obj\x86\Debug\Steganography.Steganography.resources
+E:\BTL\ste\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+E:\BTL\ste\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.cache
+E:\BTL\ste\Steganography\obj\x86\Debug\Steganography.csproj.CoreCompileInputs.cache
+E:\BTL\ste\Steganography\obj\x86\Debug\Steganography.exe.manifest
+E:\BTL\ste\Steganography\obj\x86\Debug\Steganography.application
+E:\BTL\ste\Steganography\obj\x86\Debug\Steganography.exe
+E:\BTL\ste\Steganography\obj\x86\Debug\Steganography.pdb
+E:\BTL\ste\Steganography\obj\x86\Debug\Steganography.resizeForm.resources
